@@ -1,0 +1,14 @@
+table {border: 2px solid black;
+	width: 200px;
+	text-align: center;
+
+}
+
+tr {
+	background-color: grey;
+
+}
+
+.heading {
+	background-color: white;
+}
